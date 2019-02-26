@@ -50,4 +50,14 @@ After the first meet discussion we came up with a learning path.
 <ol>
   <li> Books <a href="http://www.allitebooks.in">Here</a></li>
 </ol>
+
+<ol>
+  <li><b>Statistics:</b> Descriptive statistics, Probability distributions, Inferential statistics, Bayesian methods, Linear and Logistic regression, Regularization, Storytelling and Visualization</li>
+  <li><b>Machine Learning:</b> Decision Trees, Support Vector Machines, k-Nearest Neighbours, Matrix factorization methods and Collaborative Filtering, Apriori algorithm
+  </li>
+  <li> <b>ext Analysis:</b> Text mining concepts, Latent Semantic Indexing and Search, Text classification, Sentiment analysis.
+  </li>
+  <li><b>AI and Decision Sciences:</b> ANN, Deep learning, CNN and RNN, Evolutionary search methods, Monte Carlo Simulations.</li>
+  <li><b>Big Data:</b> Data ingestion like Chukwa, Avro, Hbase, etc. Processing frameworks like Map-Reduce, Yarn, Spark, NoSql, Sqoop, Hive, PIG and other Hadoop family.<li>
+</ol>
 </ol>
