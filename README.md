@@ -52,7 +52,7 @@ After the first meet discussion we came up with a learning path.
 </ol>
 </ol>
 
-
+<li> Other Curriculm </li>
 <ol>
   <li><b>Statistics:</b> Descriptive statistics, Probability distributions, Inferential statistics, Bayesian methods, Linear and Logistic regression, Regularization, Storytelling and Visualization</li>
   <li><b>Machine Learning:</b> Decision Trees, Support Vector Machines, k-Nearest Neighbours, Matrix factorization methods and Collaborative Filtering, Apriori algorithm
