@@ -62,7 +62,7 @@ After the first meet discussion we came up with a learning path.
     Linear and Logistic regression, 
     Regularization, 
     Storytelling and Visualization</li>
-  <li><b>Machine Learning:</b> 
+  <li><a href="https://in.udacity.com/course/intro-to-machine-learning--ud120-india"><b>Machine Learning:</b></a> 
     Decision Trees, 
     Support Vector Machines, 
     k-Nearest Neighbours, 
