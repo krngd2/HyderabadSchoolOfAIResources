@@ -54,8 +54,8 @@ After the first meet discussion we came up with a learning path.
 
 <li> Other Curriculm </li>
 <ol>
-  <li><b>Statistics:</b> 
-    Descriptive statistics, 
+  <li><b><a href="https://classroom.udacity.com/courses/st101">Statistics:</a></b> 
+    <a href="https://classroom.udacity.com/courses/ud827-india">Descriptive statistics,</a>
     Probability distributions, 
     <a href="https://classroom.udacity.com/courses/ud201">Inferential statistics</a>, 
     Bayesian methods, 
@@ -69,7 +69,7 @@ After the first meet discussion we came up with a learning path.
     Matrix factorization methods and Collaborative Filtering, 
     Apriori algorithm
   </li>
-  <li> <b>ext Analysis:</b> 
+  <li> <b>text Analysis:</b> 
     Text mining concepts, 
     Latent Semantic Indexing and Search, 
     Text classification, 
