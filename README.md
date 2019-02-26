@@ -50,6 +50,8 @@ After the first meet discussion we came up with a learning path.
 <ol>
   <li> Books <a href="http://www.allitebooks.in">Here</a></li>
 </ol>
+</ol>
+
 
 <ol>
   <li><b>Statistics:</b> Descriptive statistics, Probability distributions, Inferential statistics, Bayesian methods, Linear and Logistic regression, Regularization, Storytelling and Visualization</li>
@@ -59,5 +61,4 @@ After the first meet discussion we came up with a learning path.
   </li>
   <li><b>AI and Decision Sciences:</b> ANN, Deep learning, CNN and RNN, Evolutionary search methods, Monte Carlo Simulations.</li>
   <li><b>Big Data:</b> Data ingestion like Chukwa, Avro, Hbase, etc. Processing frameworks like Map-Reduce, Yarn, Spark, NoSql, Sqoop, Hive, PIG and other Hadoop family.<li>
-</ol>
 </ol>
