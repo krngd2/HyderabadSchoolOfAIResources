@@ -69,7 +69,7 @@ After the first meet discussion we came up with a learning path.
     Matrix factorization methods and Collaborative Filtering, 
     Apriori algorithm
   </li>
-  <li> <b>text Analysis:</b> 
+  <li> <b>Text Analysis:</b> 
     Text mining concepts, 
     Latent Semantic Indexing and Search, 
     Text classification, 
@@ -86,5 +86,5 @@ After the first meet discussion we came up with a learning path.
     Data ingestion like Chukwa, 
     Avro, 
     Hbase, etc. 
-    Processing frameworks like Map-Reduce, Yarn, Spark, NoSql, Sqoop, Hive, PIG and other Hadoop family.<li>
+    Processing frameworks like Map-Reduce, Yarn, Spark, NoSql, Sqoop, Hive, PIG and other Hadoop family.</li>
 </ol>
